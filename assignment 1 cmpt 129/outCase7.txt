@@ -1,0 +1,42 @@
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+      -20.000000   -3.840000e+02      -10.000000   -8.400000e+01      -15.000000   -2.090000e+02         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+      -19.000000   -3.450000e+02       -9.000000   -6.500000e+01      -14.000000   -1.800000e+02         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+      -18.000000   -3.080000e+02       -8.000000   -4.800000e+01      -13.000000   -1.530000e+02         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+      -17.000000   -2.730000e+02       -7.000000   -3.300000e+01      -12.000000   -1.280000e+02         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+      -16.000000   -2.400000e+02       -6.000000   -2.000000e+01      -11.000000   -1.050000e+02         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+      -15.000000   -2.090000e+02       -5.000000   -9.000000e+00      -10.000000   -8.400000e+01         1
+ERROR: no roots in the interval
+
+
+
+

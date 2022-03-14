@@ -1,0 +1,112 @@
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+        0.000000    1.600000e+01        0.000000    1.600000e+01        0.000000    1.600000e+01         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+        2.000000    1.200000e+01        2.000000    1.200000e+01        2.000000    1.200000e+01         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+        4.000000   -1.600000e-10        4.000000   -2.400000e-10        4.000000   -2.000036e-10         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+        6.000000   -2.000000e+01        6.000000   -2.000000e+01        6.000000   -2.000000e+01         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+        8.000000   -4.800000e+01        8.000000   -4.800000e+01        8.000000   -4.800000e+01         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+       10.000000   -8.400000e+01       10.000000   -8.400000e+01       10.000000   -8.400000e+01         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+       12.000000   -1.280000e+02       12.000000   -1.280000e+02       12.000000   -1.280000e+02         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+       14.000000   -1.800000e+02       14.000000   -1.800000e+02       14.000000   -1.800000e+02         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+       16.000000   -2.400000e+02       16.000000   -2.400000e+02       16.000000   -2.400000e+02         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+       18.000000   -3.080000e+02       18.000000   -3.080000e+02       18.000000   -3.080000e+02         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+       20.000000   -3.840000e+02       20.000000   -3.840000e+02       20.000000   -3.840000e+02         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+       22.000000   -4.680000e+02       22.000000   -4.680000e+02       22.000000   -4.680000e+02         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+       24.000000   -5.600000e+02       24.000000   -5.600000e+02       24.000000   -5.600000e+02         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+       26.000000   -6.600000e+02       26.000000   -6.600000e+02       26.000000   -6.600000e+02         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+       28.000000   -7.680000e+02       28.000000   -7.680000e+02       28.000000   -7.680000e+02         1
+ERROR: no roots in the interval
+
+
+
+
+  Interval Start      P(x) Start    Interval End        P(x) End        Midpoint     P(Midpoint)Iteration#
+       30.000000   -8.840000e+02       30.000000   -8.840000e+02       30.000000   -8.840000e+02         1
+ERROR: no roots in the interval
+
+
+
+
